@@ -1,0 +1,9 @@
+c:\users\zynp\documents\visual studio 2015\Projects\Kura\Kura\bin\Debug\Kura.exe.config
+c:\users\zynp\documents\visual studio 2015\Projects\Kura\Kura\bin\Debug\Kura.exe
+c:\users\zynp\documents\visual studio 2015\Projects\Kura\Kura\bin\Debug\Kura.pdb
+c:\users\zynp\documents\visual studio 2015\Projects\Kura\Kura\obj\Debug\Kura.csprojResolveAssemblyReference.cache
+c:\users\zynp\documents\visual studio 2015\Projects\Kura\Kura\obj\Debug\Kura.Form1.resources
+c:\users\zynp\documents\visual studio 2015\Projects\Kura\Kura\obj\Debug\Kura.Properties.Resources.resources
+c:\users\zynp\documents\visual studio 2015\Projects\Kura\Kura\obj\Debug\Kura.csproj.GenerateResource.Cache
+c:\users\zynp\documents\visual studio 2015\Projects\Kura\Kura\obj\Debug\Kura.exe
+c:\users\zynp\documents\visual studio 2015\Projects\Kura\Kura\obj\Debug\Kura.pdb
